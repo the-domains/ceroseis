@@ -16,13 +16,11 @@ keywords:
   - recipes
   - food
   - diet
-description: ''
-datePublished: '2016-08-20T21:25:28.573Z'
-dateModified: '2016-08-20T21:25:25.708Z'
+description: Why Ceroseis?
+datePublished: '2016-08-20T21:30:48.144Z'
+dateModified: '2016-08-20T21:28:53.356Z'
 title: ''
-author:
-  - name: ''
-    url: ''
+author: []
 via: {}
 sourcePath: _posts/2016-08-20-thinking-inside-the-box-prepd-reinvents-the-lunchbox.md
 authors: []
@@ -31,4 +29,6 @@ starred: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db17ee49-6c4c-4b44-87f4-94c044c06630.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92061f18-c30f-454d-b818-9854bc368de5.jpg)
+
+Why Ceroseis?
