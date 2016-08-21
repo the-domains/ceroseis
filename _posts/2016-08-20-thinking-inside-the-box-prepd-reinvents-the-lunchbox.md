@@ -1,9 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: >-
-  http://www.wallpaper.com/lifestyle/san-francisco-startup-prepd-pack-reinvents-the-lunchbox
+hasPage: true
+inNav: true
 inLanguage: en
 keywords:
   - prepd
@@ -17,8 +15,8 @@ keywords:
   - food
   - diet
 description: Why Ceroseis?
-datePublished: '2016-08-20T21:35:53.208Z'
-dateModified: '2016-08-20T21:35:46.972Z'
+datePublished: '2016-08-20T21:43:02.107Z'
+dateModified: '2016-08-20T21:42:44.762Z'
 title: ''
 author: []
 via: {}
@@ -26,13 +24,12 @@ sourcePath: _posts/2016-08-20-thinking-inside-the-box-prepd-reinvents-the-lunchb
 authors: []
 publisher: {}
 starred: false
-_type: MediaObject
+url: why-ceroseis/index.html
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92061f18-c30f-454d-b818-9854bc368de5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97770494-8442-43f6-9780-6eaf2270d7b8.jpg)
 
 Why Ceroseis?
 
-We're packing freshness and quality, in our beautifully designed brand packagings, shipping it to various parts of the planet, spreading taste and flavor all year around.... to start off. 
-
-It looks good as a first reason, doesn't it?
+We're packing freshness and quality, in our beautifully designed brand packagings, shipping it to various parts of the planet, spreading taste and flavor all year around.... to start off. It looks good as a first reason, doesn't it?
