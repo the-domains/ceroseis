@@ -1,19 +1,6 @@
 name: ceroseis
-favicon: null
 layout_spectrum: 0.6393192784706119
 typography_spectrum: 0.05713802646516797
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#004358'
@@ -25,4 +12,3 @@ color:
   lightness: 0.5604603960405835
   saturation: 0.6019194840941491
   rhythmicContrast: 0.23415651980311625
-purpose: []
